@@ -1,4 +1,4 @@
-[![Build m_nowplaying DLL](https://github.com/irc-js/m_nowplaying/actions/workflows/ci.yml/badge.svg)](https://github.com/irc-js/m_nowplaying/actions/workflows/ci.yml)
+[![Build m_nowplaying DLL](https://github.com/irc-rs/m_nowplaying/actions/workflows/ci.yml/badge.svg)](https://github.com/irc-rs/m_nowplaying/actions/workflows/ci.yml)
 # m_nowplaying DLL for mIRC / AdiIRC
 
 ## Requirements
